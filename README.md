@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![App Screenshot](screenshots/WhatsAppImage2023-09-25at20.38.33.jpg)
+![App Screenshot](screenshots/1.jpg)
 
 
 Xylophone Composer is a simple cross-platform Flutter application that allows users to compose independent music using a virtual xylophone. Create your own melodies, play tunes, and have fun making music!
